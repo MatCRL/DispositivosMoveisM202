@@ -25,12 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "badea744-98db-4725-a2c8-0ed528486695"
-      }
-    },
-    "owner": "xandeturf"
+    }
   }
 }

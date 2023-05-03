@@ -1,12 +1,5 @@
-import { VStack, Heading, Center } from "native-base";
-
-import { Input } from "../components/input";
-import { AppNavigator } from "../navigation/AppNavigator";
+import { DrawerNavigator } from "../navigation/DrawerNavigator";
 
 export function HomeScreen() {
-  return (
-    // <VStack flex={1}>
-      <AppNavigator />
-    // </VStack>
-  );
+  return <DrawerNavigator />;
 }
